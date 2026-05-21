@@ -1,12 +1,12 @@
 ### Amharic Sports Curated Dataset
 
-NAME                             ID                                        
-1.Bemnet Grum               ugr/25906/14              
-2.Biniyam Getachew          ugr/25297/14              
-3.Yonas Esubalew            ugr/26605/14                   
-4.Bitaniya Zeray            ugr/25812/14              
-5.Mihret Abebe              ugr/25394/14                     
-6.Kalkidan Yalew            ugr/25325/14
+NAME                                        ID                                        
+1.Bemnet Girum        ---                   ugr/25906/14              
+2.Biniyam Getachew    ---                   ugr/25297/14              
+3.Yonas Esubalew      ---                   ugr/26605/14                   
+4.Bitaniya Zeray      ---                   ugr/25812/14              
+5.Mihret Abebe        ---                   ugr/25394/14                     
+6.Kalkidan Yalew      ---                   ugr/25325/14
 
 Contents
 - amharic_sports_curated.jsonl — 1200 line-delimited JSON entries (instruction/input/output)
