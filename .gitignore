@@ -1,0 +1,10 @@
+.venv
+env_new
+.env_new
+venv
+__pycache__/
+*.pyc
+
+# Ignore large datasets
+*.csv
+Amharic News Dataset.csv
